@@ -1,16 +1,36 @@
-<p align="center">
-<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
-</p>
 
-<p align="center">
-  View Complete <a href="https://www.htmlhints.com/article/how-to-create-weather-app-using-reactjs-with-current-location-search-city/93">Installation details</a>.
- </p>
- <p align="center">
-  View <a href="https://master.d2gxbs6vwhkz68.amplifyapp.com/">Live demo</a>.
- </p>
+# 🌦️ Live Weather App for Zynetic
 
-## Setup
+This is a responsive and user-friendly weather application built using **React.js**. It fetches real-time weather data for any city using the **OpenWeatherMap API**.
 
-```
-npm i && npm start
-```
+### 🔗 Live Demo
+👉 [Click here to view the live app](https://wondrous-halva-dcf5f7.netlify.app)
+
+---
+
+## 🚀 Features
+
+- 🌍 Get weather details for any city worldwide
+- 📱 Fully responsive across devices
+- 🌡️ Displays temperature, humidity, wind speed, and more
+- ⚡ Real-time API integration with OpenWeatherMap
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **HTML5 & CSS3**
+- **JavaScript (ES6)**
+- **OpenWeatherMap API**
+- **Netlify** for deployment
+
+---
+
+## 📦 Getting Started
+
+```bash
+git clone https://github.com/dhruvsingh0311/live_weather_app_zynetic.git
+cd live_weather_app_zynetic
+npm install
+npm start
